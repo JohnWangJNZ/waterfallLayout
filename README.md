@@ -9,4 +9,5 @@ A container is divided to several columns according to the width of elements.
 Everytime, insert an element in the main container and render the element at the column with a minimum height value.
 
 #Purpose
-Use Js to implement the waterfall Layout.
+Use Js to implement the waterfall Layout. <br/>
+In this demo, a "scrollData" is created as the new elements to insert to the container. 
