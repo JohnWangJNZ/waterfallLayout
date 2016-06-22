@@ -1,0 +1,25 @@
+body, div {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    position: relative;
+    background: lightgray;
+}
+
+.box {
+    background:yellow;
+    padding:20px;
+    border:1px solid #808080;
+    box-shadow:0 0 5px;
+    float:left;
+}
+.box .element{
+    background:green;
+    width:350px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:100px;
+    line-height:120px;
+    text-align:center;
+}
