@@ -1,3 +1,6 @@
+<a href="http://s1268.photobucket.com/user/JohnathanWang/media/water_zpsfjvjg8cd.jpg.html" target="_blank"><img src="http://i1268.photobucket.com/albums/jj561/JohnathanWang/water_zpsfjvjg8cd.jpg" border="0" alt=" photo water_zpsfjvjg8cd.jpg"/></a>
+
+<br/>
 # waterfallLayout
 
 Waterfall Layout like its name appear that the layout of the webpage should be streamed from top to down endless...
